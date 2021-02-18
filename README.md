@@ -1,4 +1,4 @@
-<p><a href=" markdown-app.surge.sh" target="_blank">デプロイ先</a></p>
+<p><a href="http://markdown-app.surge.sh/" target="_blank">デプロイ先（markdown-app.surge.sh）</a></p>
 
 <p>📝ビルドコマンド：gatsby build</p>
 
